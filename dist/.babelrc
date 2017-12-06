@@ -1,0 +1,4 @@
+{
+    "presets":["react","env"],     //babel 预设 处理react语法， env处理es6语法
+    "plugins":["transform-object-rest-spread"]
+}

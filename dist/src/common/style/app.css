@@ -1,0 +1,9 @@
+/* body{
+    background:url('../img/1.jpg')
+} */
+body{
+    background-color: rgba(0, 0, 0,.3)
+}
+.ot{
+    background-color: red;
+}
